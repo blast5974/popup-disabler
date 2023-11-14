@@ -1,1 +1,2 @@
+! Title: Popup disabler
 nsfwmonster.com$$script[tag-content="window.open('/clck.php');"][max-length="20000"]
