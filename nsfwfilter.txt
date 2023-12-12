@@ -33,3 +33,6 @@ nsfwmonster.com##div.col-12:has(a:contains(blacked))
 nsfwmonster.com##div.col-12:has(a:contains(maseratixxx))
 nsfwmonster.com##div.col-12:has(a:contains(90sTits))
 nsfwmonster.com##div.col-12:has(a:contains(monsterdicks))
+
+nsfwlivechat.com##div.header-notifications-wrapper:-abp-has(.header-notifications)
+pl.nsfwlivechat.com####div.header-notifications-wrapper:-abp-has(.header-notifications)
